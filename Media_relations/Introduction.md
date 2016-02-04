@@ -3,7 +3,7 @@ When a startup experiences bad press, it can be an enormous setback that destroy
 * A startup failing to deliver on their promises.
 * A startup being out of touch with the mainstream.
 * A startup pushing an ethically questionable product.
-* See: [Peeple](https://www.washingtonpost.com/news/the-intersect/wp/2015/09/30/everyone-you-know-will-be-able-to-rate-you-on-the-terrifying-yelp-for-people-whether-you-want-them-to-or-not/)
+ * See: [Peeple](https://www.washingtonpost.com/news/the-intersect/wp/2015/09/30/everyone-you-know-will-be-able-to-rate-you-on-the-terrifying-yelp-for-people-whether-you-want-them-to-or-not/)
 * A startup not asking permission.
 * A startup experiencing a misunderstanding with the media. 
 
