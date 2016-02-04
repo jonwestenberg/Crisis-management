@@ -5,7 +5,7 @@ This guide is intended to offer startup founders a quick action handbook to use 
 
 For founders who find themselves in a crisis situation, the way you respond to a tough situation can determine the future of their company. Failing to respond effectively often leads to a community fallout, a staff exodus, or so much bad press that it can be impossible to recover. 
 
-This guide posits that there are three response stages in any crisis situation:
+*There are three response stages in any crisis situation:*
  1. Recognition of the issues.
  2. Current actions.
  3. Future preventative actions.
