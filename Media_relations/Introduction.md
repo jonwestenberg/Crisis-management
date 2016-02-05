@@ -8,4 +8,4 @@ The most frequent media relations problems are:
 * A startup not asking permission.
 * A startup experiencing a misunderstanding with the media. 
 
-The case studies provided for each of these media crises should be reviewed before moving on to the response stage guidelines. 
+Each of these situations is covered by a case study and a suggested three stage response.
