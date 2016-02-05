@@ -18,4 +18,4 @@ This guide will go through the appropriate responses for each of these stages, p
 
 Each situation covered here provides you with a task list, response templates and case studies.
 
-I encourage you to clone, modify and use this guide inside your own organisation. 
+I encourage you to clone, modify and use this guide within your own organisation. 
