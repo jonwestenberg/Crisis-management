@@ -1,4 +1,4 @@
-# The Unethical Product Shit-storm.
+# The Unethical Product Shit-Storm.
 ## Case study: Peeple
 [Washington Post](https://www.washingtonpost.com/news/the-intersect/wp/2015/09/30/everyone-you-know-will-be-able-to-rate-you-on-the-terrifying-yelp-for-people-whether-you-want-them-to-or-not/)
 > It’s inherently invasive, even when complimentary. And it’s objectifying and reductive in the manner of all online reviews. One does not have to stretch far to imagine the distress and anxiety that such a system would cause even a slightly self-conscious person; it’s not merely the anxiety of being harassed or maligned on the platform — but of being watched and judged, at all times, by an objectifying gaze to which you did not consent. Where once you may have viewed a date or a teacher conference as a private encounter, Peeple transforms it into a radically public performance: Everything you do can be judged, publicized, recorded.
