@@ -4,7 +4,7 @@ When a startup experiences a press crisis, it can be an enormous setback that de
 The most frequent media relations problems are:
 * A startup failing to deliver on their promises.
 * A startup being out of touch with the mainstream.
-* A startup pushing an ethically questionable product.
+* [A startup pushing an ethically questionable product.](https://github.com/jonwestenberg/Crisis-management/blob/master/Media_relations/%23Case_study-unethical_product_shitstorm.md#the-unethical-product-shit-storm)
 * A startup not asking permission.
 * A startup experiencing a misunderstanding with the media. 
 
