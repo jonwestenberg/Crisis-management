@@ -12,3 +12,7 @@ The backlash was intense, and it lasted for weeks. The founders were universally
 3. They ignored the (valid) concerns of the media.
 4. [They finally pivoted to a weak concept, abandoned their project and disappeared.](http://forthepeeple.com/) 
 
+## Where They Went Wrong
+
+When you have a product that is receiving intense backlash due to ethical concerns, the first exercise is always going to be analysis. Is there any basis to the accusations of unethical behaviour? What can you learn, constructively, from the feedback? It's worthwhile investigating whether or not the backlash has any footing. If you've become too caught up in the excitement of building and launching a product, it may be the case that you've
+
