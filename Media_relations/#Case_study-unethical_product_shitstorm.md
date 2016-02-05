@@ -10,5 +10,5 @@ The backlash was intense, and it lasted for weeks. The founders were universally
 1. They insisted that the reporters didn't "Get" their concept.
 2. They took the backlash as a personal attack and lashed out, accusing commentors of bullying.
 3. They ignored the (valid) concerns of the media.
-4. They finally pivoted to a weak concept, abandoned their project and disappeared. 
+4. [They finally pivoted to a weak concept, abandoned their project and disappeared.](http://forthepeeple.com/) 
 
