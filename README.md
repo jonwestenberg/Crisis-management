@@ -10,6 +10,12 @@ For founders who find themselves in a crisis situation, the way you respond to a
  2. Current actions.
  3. Future preventative actions.
 
-This guide will go through the appropriate responses for each of these stages, providing guidelines for startup founders to follow when facing a crisis. There are four crisis situations covered - media relations, community relations, staff relations and industry relations. Each situation covered here provides you with a task list, response templates and case studies.
+This guide will go through the appropriate responses for each of these stages, providing guidelines for startup founders to follow when facing a crisis. There are four crisis situations covered:
+* Media crisis
+* Community crisis 
+* Staff crisis
+* Industry crisis. 
+
+Each situation covered here provides you with a task list, response templates and case studies.
 
 I encourage you to clone, modify and use this guide inside your own organisation. 
