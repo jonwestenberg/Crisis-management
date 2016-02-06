@@ -1,4 +1,4 @@
-## Responding to an unethical product shitstorm:
+## Responding to an unethical product shitstorm.
 
 When you have a product that is receiving intense backlash due to ethical concerns, the first exercise is always going to be analysis. Is there any basis to the accusations of unethical behaviour? What can you learn, constructively, from the feedback? It's worthwhile investigating whether or not the backlash has any footing. If you've become too caught up in the excitement of building and launching a product, it may be the case that you've lost sight of the people that you are going to hurt by launching it. 
 
