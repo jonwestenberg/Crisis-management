@@ -1,4 +1,4 @@
-# Case study: Peeple
+# Case study: Peeple.
 
 Peeple was a trainwreck of a startup. Essentially, it was an app that was intended to let users review other people with a rating system. It was widely billed as "Yelp for People" - and the ethical problems inherent in that service were apparently obvious to everyone except the founders of the company.
 
