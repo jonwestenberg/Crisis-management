@@ -13,9 +13,17 @@ The backlash was intense, and it lasted for weeks. The founders were universally
 1. They insisted that the reporters didn't "Get" their concept.
 2. They took the backlash as a personal attack and lashed out, accusing commentors of bullying. In fact, they even attempted to block people who were critical of their concept. 
 3. They ignored the (valid) concerns of the media.
-4. [They finally pivoted to a weak concept, abandoned their project and disappeared.](http://forthepeeple.com/) 
+4. [They finally pivoted to a weak concept, abandoned their project and became irrelevant.](http://forthepeeple.com/) 
 
-## What They Should Have Done
+## Responding to an unethical product shitstorm:
 
-When you have a product that is receiving intense backlash due to ethical concerns, the first exercise is always going to be analysis. Is there any basis to the accusations of unethical behaviour? What can you learn, constructively, from the feedback? It's worthwhile investigating whether or not the backlash has any footing. If you've become too caught up in the excitement of building and launching a product, it may be the case that you've
+When you have a product that is receiving intense backlash due to ethical concerns, the first exercise is always going to be analysis. Is there any basis to the accusations of unethical behaviour? What can you learn, constructively, from the feedback? It's worthwhile investigating whether or not the backlash has any footing. If you've become too caught up in the excitement of building and launching a product, it may be the case that you've lost sight of the people that you are going to hurt by launching it. 
+
+Regardless of your conclusion, your first stage response to the media should be this:
+
+[]Acknowledge the concerns around the ethics of your startup. 
+[]Apologise for the negative impact that you have had.
+[]Announce your intentions to fully investigate the concerns. 
+[]Invite public commentary through a dedicated email address. 
+
 
